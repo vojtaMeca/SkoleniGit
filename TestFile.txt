@@ -1,0 +1,1 @@
+﻿Tento soubor slouuží pro ukázku, jak pracovat s GITem.
