@@ -1,5 +1,5 @@
 ﻿Tento soubor slouuží pro ukázku, jak pracovat s GITem.
-přidal jsem tu ten nějaký nápad.
+přidal jsem tu ten nějaký nápad, který byl výborný.
 chci aby tento řádek pak byl ve výsledné větvi
 Mé nápady na úpravu souborů ještě nedošly.
 Tento soubor slouuží pro ukázku, jak pracovat s GITem.
