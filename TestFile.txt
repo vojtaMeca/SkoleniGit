@@ -1,8 +1,7 @@
-﻿Tento soubor slouuží pro ukázku, jak pracovat s GITem.
+﻿/*popisek pro druhou větev.*/
+Tento soubor slouuží pro ukázku, jak pracovat s GITem.
 
 Mé nápady na úpravu souborů došly.
-
-//popisek pro druhou větev.
 
 Vytvořený konflikt.
 
