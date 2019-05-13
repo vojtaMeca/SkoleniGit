@@ -1,3 +1,5 @@
 ﻿Tento soubor slouuží pro ukázku, jak pracovat s GITem.
 
+přidal jsem tu ten nějaký nápad.
+
 Vytvořený konflikt.
