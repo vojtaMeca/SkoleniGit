@@ -6,3 +6,4 @@ Tento soubor slouuží pro ukázku, jak pracovat s GITem.
 
 Vytvořený konflikt.
 tento řádek bude také ve výsledné větvi.
+Miluji GIT
