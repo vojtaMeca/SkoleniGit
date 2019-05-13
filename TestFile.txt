@@ -1,6 +1,6 @@
 ﻿Tento soubor slouuží pro ukázku, jak pracovat s GITem.
 přidal jsem tu ten nějaký nápad, který byl výborný.
-chci aby tento řádek pak byl ve výsledné větvi
+chci aby tento řádek pak byl ve výsledné větvi //nebude
 Mé nápady na úpravu souborů ještě nedošly.
 
 tento řádek bude také ve výsledné větvi.
