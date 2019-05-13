@@ -1,7 +1,6 @@
 ﻿Tento soubor slouuží pro ukázku, jak pracovat s GITem.
 přidal jsem tu ten nějaký nápad.
 chci aby tento řádek pak byl ve výsledné větvi
-Mé nápady na úpravu souborů došly.
+Mé nápady na úpravu souborů ještě nedošly.
 Tento soubor slouuží pro ukázku, jak pracovat s GITem.
-Vytvořený konflikt.
 tento řádek bude také ve výsledné větvi.
